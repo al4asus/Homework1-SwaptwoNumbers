@@ -1,7 +1,7 @@
 # Homework 1 - Swap Two Numbers
 
 ### Project Overview
-This repository contains a simple Python implementation to swap the values of two numbers provided by the user. The code is inside the develop branch.
+This repository contains a simple Python implementation to swap the values of two numbers provided by the user. **The code is inside the develop branch**.
 
 ### Student Information
 **Name & Surname:** Hasan Geredeli
