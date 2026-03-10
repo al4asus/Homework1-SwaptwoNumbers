@@ -10,11 +10,11 @@ This repository contains a simple Python implementation to swap the values of tw
 
 ### Build Instructions
 **Programming Language:** Python 3.x 
-**Compilation:** Since this project is developed using Python, no explicit build or compilation step is required[cite: 9]. [cite_start]Please ensure you have Python 3 installed on your system[cite: 9].
+**Compilation:** Since this project is developed using Python, no explicit build or compilation step is required.Please ensure you have Python 3 installed on your system.
 
 ### Run Instructions
-1. Open your terminal or command prompt[cite: 9].
-2. Navigate to the project directory[cite: 9].
+1. Open your terminal or command prompt.
+2. Navigate to the project directory.
 3. Run the following command:
    ```bash
    python swap_two_numbers.py
